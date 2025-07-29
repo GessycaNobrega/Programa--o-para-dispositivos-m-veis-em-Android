@@ -1,3 +1,5 @@
+//O próximo código é da tela About:
+
 import * as React from 'react';
  import { View, Text, Button } from 'react-native';
 
